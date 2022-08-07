@@ -10,5 +10,6 @@
 
 # :speech_balloon:Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMHYUNSOO1999)](https://github.com/KIMHYUNSOO1999/github-readme-stats)
+</br><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 # My Project
